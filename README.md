@@ -1,2 +1,2 @@
 # .github
-e-shool
+e-school
