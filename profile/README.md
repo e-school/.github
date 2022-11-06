@@ -12,8 +12,8 @@ Primary goal of e-school is to help opensource users as a learning place before 
 There would be different repository for each type of utility. In each utility type repo there would different readme.md files which describe about the utility.
 
 ### Remember: 
-** one repository = one type of utility. ex: validations, docker images, micro services frameworks, ui frameworks...etc. **
-** One framework.md = description of the framework, pros and cons, helpful links..etc. **
+**One repository = one type of utility. ex: validations, docker images, micro services frameworks, ui frameworks...etc.** <br/>
+**One framework.md = description of the framework, pros and cons, helpful links..etc.**
 
 # How can I contribute to this repo
 You are most welcome to create PRs for the any repository and write about your framework and more details. e-school is planned to grow in shorter time, hope for capturing more detials.
