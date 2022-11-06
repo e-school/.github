@@ -5,7 +5,7 @@ e-school is created to maintain centralized utlilities details which are more po
 
 The utiliies can be rated and discussed in opensource community with pros & cons. 
 
-# Why it is named as e-school
+# Why it is named as e-school?
 Primary goal of e-school is to help opensource users as a learning place before they adopt any framework or utility into their projects. e-school helps developers to take critical decisions in the deverloper experience.
 
 # What does e-school contains?
